@@ -1,3 +1,3 @@
 'use strict';
 
-export const baseUrl = 'https://curcon-backend.herokuapp.com/rest/';
+export const baseUrl = 'https://seccurcon-backend.herokuapp.com/rest/';
